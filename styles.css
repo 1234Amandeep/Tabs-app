@@ -175,6 +175,9 @@ main {
   display: grid;
   place-items: center;
 }
+.title {
+  margin-top: 8%;
+}
 /*
 =============== 
 About
